@@ -6,10 +6,16 @@
 
     <Preference
         android:title="Version"
-        android:summary="v1.0" />
+        android:summary="v23.2" />
 
     <Preference
         android:title="Credits"
         android:summary="LineageOS • Evolution X • PixelOS" />
 
 </PreferenceScreen>
+
+<Preference
+    android:key="aether_wallpaper"
+    android:title="Change wallpaper"
+    android:summary="Home & lock screen wallpaper"
+    android:icon="@drawable/ic_settings_wallpaper" />
