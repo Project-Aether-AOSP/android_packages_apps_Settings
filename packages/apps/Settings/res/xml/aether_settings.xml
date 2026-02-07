@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference
+        android:title="Project Aether"
+        android:summary="LineageOS-based ROM" />
+
+    <Preference
+        android:title="Version"
+        android:summary="v1.0" />
+
+    <Preference
+        android:title="Credits"
+        android:summary="LineageOS • Evolution X • PixelOS" />
+
+</PreferenceScreen>
