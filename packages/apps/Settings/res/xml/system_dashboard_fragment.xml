@@ -1,4 +1,0 @@
-<Preference
-    android:key="aether_settings"
-    android:title="Project Aether"
-    android:fragment="com.android.settings.aether.AetherSettings" />
